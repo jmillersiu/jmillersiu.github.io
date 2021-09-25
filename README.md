@@ -1,2 +1,1 @@
-# ist336
-class repo
+my blog
