@@ -18,6 +18,8 @@ August 2021 - Current Position - Assistant Lecturer - School of Information Tech
 <li>Assess future hardware, software, and personnel needs for the IT Department of University Housing</li>
 <li> Communicate with the Director of Housing, Associate Director of Operations, and leadership teams of University Housing to develop and implement IT procedures and initiatives</li>
 <li>Supervise a staff of 5 IT professionals within the operations unit of University Housing</li>
+<li>Supervise 25 Student Employees and Lab Attendants For 3 Housing Computer Labs</li>
+<li>Arrange 4 yearly internishps for School of Information Technology Undergraduate Student Interns</li>
 <li>Recommend, contact, and direct IT personnel for team placement on critical tasks to resolve interruption of services and communications</li>
 <li>Oversee $1.2 million-dollar IT budget, including maintaining vendor relations and developing RFP and IFB proposals for services with multiple vendors</li>
 <li>Install and configure operational software packages on Windows and Linux web-servers; consisting of custom-built, open-source and 3rd party applications</li>
