@@ -6,13 +6,17 @@ categories: jekyll update
 ---
 <br>
 
-Information Technology Research Topics - SIUC, Carbondale, Illinois  
+Current Research Topics - SIUC, Carbondale, Illinois  
 ---
+
 Online Learning in Information Technology
+---
 <li>Paper Discussing Online Learning in Higher Education</li>
 <li><a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>PDF DOWNLOAD</a><strong></li>
-<li>Medical Cyber Physical Systems</li>
+
 Cyber Security
+***
+<li>Medical Cyber Physical Systems</li>
 <li>Key Design Drivers and Quality Attributes of Cyber Physical Systems</li>
 <li>Symbolic Synthesis for Cyber-Physical Systems</li>
 <li>The Control of CPS Applications</li>
