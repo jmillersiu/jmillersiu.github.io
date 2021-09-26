@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <br>
 
-Current Research Topics - SIUC, Carbondale, Illinois  
+Research Topics - SIUC, Carbondale, Illinois  
 ---
 <li>Online Learning by Jeff Miller <a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>[PDF DOWNLOAD]</a></li>
 <li>PCI Compliancy Topics by Jeff Miller</li>
