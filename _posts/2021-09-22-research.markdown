@@ -13,7 +13,6 @@ Current Research Topics - SIUC, Carbondale, Illinois
 <li>Secure Web Servers by Jeff Miller</li>
 <li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller</li>
 <li>Utilizing Open Source in E-Commerce for Organizations by Jeff Miller</li>
-<li>NGNX and other Web Servers by Jeff Miller</li>
 <li>Medical Cyber Physical Systems by Jeff Miller</li>
 <li>Key Design Drivers and Quality Attributes of Cyber Physical Systems by Jeff Miller</li>
 <li>Symbolic Synthesis for Cyber-Physical Systems by Jeff Miller</li>
