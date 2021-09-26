@@ -10,7 +10,7 @@ August 2021 - Current Position - Assistant Lecturer - School of Information Tech
 ---
 <li>Instructional Designer - Lead Instructor - Programming with SQL - FALL 2021 ITEC 370</li>
 <li>Instructional Designer - Lead Instructor - Database Design & Processing - FALL 2021 ITEC 334</li>
-<li>Instructional Designer - Lead Instructor - Web Applications - Instructor - FALL 2021 ITEC 236</li>
+<li>Instructional Designer - Lead Instructor - Web Applications - FALL 2021 ITEC 236</li>
 <li>Assistant Lecturer/Assitant Instructor - Security Dawgs - FALL 2021 ITEC 395</li>
 <br>
 
