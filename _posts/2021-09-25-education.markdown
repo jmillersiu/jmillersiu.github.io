@@ -22,7 +22,7 @@ categories: jekyll update
 
 Graduate Courses Completed 
 ---
-Southern Illinois University
+**Southern Illinois University**
 <br>
 <li>Intro to Security - ITEC 501</li>
 <li>Cloud Security - ITEC 502</li>
@@ -35,7 +35,7 @@ Southern Illinois University
 
 Undergraduate Courses Completed
 ---
-Southern Illinois University
+**Southern Illinois University**
 <br>
 <li>Intro to Security - ITEC 216</li>
 <li>Networking Fundamentals - ITEC 224</li>
