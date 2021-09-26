@@ -9,5 +9,5 @@ categories: jekyll update
 Paper - Learning - SIUC, Carbondale, Illinois  
 ---
 <li>Paper Discussing Learning in Higher Education, PDF Download Coming Soon </li>
-<li><a href="assets/Miller_Online_Learning_pdf.pdf" download>ONLINE LEARNING PAPER</a></li>
+<li><a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>ONLINE LEARNING PAPER</a></li>
 <br>
