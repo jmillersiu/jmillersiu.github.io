@@ -9,6 +9,11 @@ categories: jekyll update
 Current Research Topics - SIUC, Carbondale, Illinois  
 ---
 <li>Online Learning by Jeff Miller <a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>[PDF DOWNLOAD]</a></li>
+<li>PCI Compliancy Topics by Jeff Miller</li>
+<li>Secure Web Servers by Jeff Miller</li>
+<li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller</li>
+<li>Utilizing Open Source in E-Commerce for Organizations by Jeff Miller</li>
+<li>NGNX and other Web Servers by Jeff Miller</li>
 <li>Medical Cyber Physical Systems by Jeff Miller</li>
 <li>Key Design Drivers and Quality Attributes of Cyber Physical Systems by Jeff Miller</li>
 <li>Symbolic Synthesis for Cyber-Physical Systems by Jeff Miller</li>

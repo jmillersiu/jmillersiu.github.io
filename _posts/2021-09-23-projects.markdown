@@ -4,4 +4,11 @@ title:  "Projects"
 date:   2021-09-23 13:11:36
 categories: jekyll update
 ---
-Projects to Date
+Current Projects - SIUC, Carbondale, Illinois  
+---
+<li>Online Learning by Jeff Miller <a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>[PDF DOWNLOAD]</a></li>
+<li>PCI Compliancy Topics by Jeff Miller</li>
+<li>Secure Web Servers by Jeff Miller</li>
+<li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller</li>
+<li>Utilizing Open Source in E-Commerce for Organizations by Jeff Miller</li>
+<li>NGNX and other Web Servers by Jeff Miller</li>
