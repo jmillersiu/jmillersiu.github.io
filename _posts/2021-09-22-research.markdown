@@ -6,8 +6,17 @@ categories: jekyll update
 ---
 <br>
 
-Paper - Learning - SIUC, Carbondale, Illinois  
+Information Technology Research Topics - SIUC, Carbondale, Illinois  
 ---
-<li>Cyber Security Graduate Studies </li>
+<li>Medical Cyber Physical Systems</li>
+<li>Key Design Drivers and Quality Attributes of Cyber Physical Systems</li>
+<li>Symbolic Synthesis for Cyber-Physical Systems</li>
+<li>The Control of CPS Applications</li>
+<li>The Application of Hybrid Systems in CPS</li>
+<li>Cyber Security of Cyber Physical Systems</li>
+<li>Real-Time Scheduling for Cyber-Physical Systems</li>
+<li>Modeling and Testing in Cyber Physical Systems</li>
+<li>Analyzing Security in Cloud Services</li>
+<li>Security in Hybrid Cloud Services</li>
 
 <br>
