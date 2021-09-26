@@ -8,19 +8,19 @@ categories: jekyll update
 
 Research Topics - SIUC, Carbondale, Illinois  
 ---
-<li>Online Learning by Jeff Miller <a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>[PDF DOWNLOAD]</a></li>
-<li>PCI Compliancy Topics by Jeff Miller</li>
-<li>Secure Web Servers by Jeff Miller</li>
-<li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller</li>
-<li>Utilizing Open Source in E-Commerce for Organizations by Jeff Miller</li>
-<li>Medical Cyber Physical Systems by Jeff Miller</li>
-<li>Key Design Drivers and Quality Attributes of Cyber Physical Systems by Jeff Miller</li>
-<li>Symbolic Synthesis for Cyber-Physical Systems by Jeff Miller</li>
-<li>The Control of CPS Applications by Jeff Miller</li>
-<li>The Application of Hybrid Systems in CPS by Jeff Miller</li>
-<li>Cyber Security of Cyber Physical Systems by Jeff Miller</li>
-<li>Real-Time Scheduling for Cyber-Physical Systems by Jeff Miller</li>
-<li>Modeling and Testing in Cyber Physical Systems by Jeff Miller</li>
-<li>Analyzing Security in Cloud Services by Jeff Miller</li>
-<li>Security in Hybrid Cloud Services by Jeff Miller</li>
+<li>Online Learning by Jeff Miller, May 2018<a href="https://jmillersiu.github.io/assets/Miller_Online_Learning_pdf.pdf" download>[PDF DOWNLOAD]</a></li>
+<li>PCI Compliancy Topics by Jeff Miller, September, 2021</li>
+<li>Secure Web Servers by Jeff Miller, September, 2021</li>
+<li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller, September, 2021</li>
+<li>Utilizing Open Source in E-Commerce for Organizations by Jeff Miller, September, 2021</li>
+<li>Medical Cyber Physical Systems by Jeff Miller, August, 2021</li>
+<li>Key Design Drivers and Quality Attributes of Cyber Physical Systems by Jeff Miller, August, 2021</li>
+<li>Symbolic Synthesis for Cyber-Physical Systems by Jeff Miller, August, 2021</li>
+<li>The Control of CPS Applications by Jeff Miller, August, 2021</li>
+<li>The Application of Hybrid Systems in CPS by Jeff Miller, August, 2021</li>
+<li>Cyber Security of Cyber Physical Systems by Jeff Miller, August, 2021</li>
+<li>Real-Time Scheduling for Cyber-Physical Systems by Jeff Miller, August, 2021</li>
+<li>Modeling and Testing in Cyber Physical Systems by Jeff Miller, August, 2021</li>
+<li>Analyzing Security in Cloud Services by Jeff Miller, Dec, 2020</li>
+<li>Security in Hybrid Cloud Services by Jeff Miller, Dec, 2020</li>
 <br>
