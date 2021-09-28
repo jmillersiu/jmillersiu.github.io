@@ -30,6 +30,7 @@ August 2021 - Current Position - Assistant Lecturer - School of Information Tech
 <li>Maintain PCI compliancy within essential business operations</li> 
 <li>Build and maintain custom-built payment solutions utilizing payment gateways and credit card processors</li>
 <li>Oversee large network of over 200 computers utilized by over 200 employees in University Housing</li>
+<li>Member of SIU RSS Recreational Sports and Services Advisory Board</li>
 <br>
 
 2000 - November, 2013 - Manager of Technical Support - DxR Development Group, Carbondale, Illinois
