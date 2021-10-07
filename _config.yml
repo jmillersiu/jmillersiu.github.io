@@ -4,9 +4,9 @@ email: jmillersiu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thanks for visiting!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jmillersiu.github.io" # the base hostname & protocol for your site
+url: "https://jmillersiu.github.io" # the base hostname & protocol for your site
 twitter_username: Miller_Tym
-github_username:  jmiller70
+github_username:  jmillersiu
 
 # Build settings
 markdown: kramdown
