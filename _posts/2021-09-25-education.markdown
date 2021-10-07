@@ -11,7 +11,7 @@ categories: jekyll update
 <li>Graduate Certificate in Cybersecurity, Southern Illinois University, Carbondale, Illinois - August 2021  
 </li>
 
-<li>Bachelor of Science, University Studies, Southern Illinois University, Carbondale, Illinois - May 2019
+<li>Bachelor of Science, University Studies, Areas: Curriculum & Instruction; Psychology,  Southern Illinois University, Carbondale, Illinois - May 2019
 </li>
 
 <li> Associate of Arts, John A. Logan College, Carterville, Illinois - May 1995
