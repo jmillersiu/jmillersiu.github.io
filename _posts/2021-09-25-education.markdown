@@ -4,11 +4,13 @@ date: 2021-09-25 13:11:36
 title:  "Education"
 categories: jekyll update
 ---
-
-<li>Bachelor of Science, Information Systems Technology, Southern Illinois University, Carbondale, Illinois -  December 2019
+<li>MSEd, Workforce Education & Development, Southern Illinois University, Carbondale, Illinois - 2021-2023 
 </li>
 
-<li>Graduate Certificate in Cybersecurity, Southern Illinois University, Carbondale, Illinois - August 2021  
+<li>Graduate Certificate in Cybersecurity, (1-year-18 Hours) Southern Illinois University, Carbondale, Illinois - August 2021  
+</li>
+
+<li>Bachelor of Science, Information Systems Technology, Southern Illinois University, Carbondale, Illinois -  December 2019
 </li>
 
 <li>Bachelor of Science, University Studies, Areas: Curriculum & Instruction; Psychology,  Southern Illinois University, Carbondale, Illinois - May 2019
@@ -20,7 +22,7 @@ categories: jekyll update
 
 <br>
 
-Graduate ITEC Courses Completed 
+Graduate ITEC Course Highlights 
 ---
 **Southern Illinois University**
 <br>
@@ -33,7 +35,7 @@ Graduate ITEC Courses Completed
 
 <br>
 
-Undergraduate ITEC Courses Completed
+Undergraduate ITEC Course Highlights
 ---
 **Southern Illinois University**
 <br>
