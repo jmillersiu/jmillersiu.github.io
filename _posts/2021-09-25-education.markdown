@@ -22,7 +22,7 @@ categories: jekyll update
 
 <br>
 
-Graduate ITEC Courses Completed 
+Graduate ITEC Course Highlights 
 ---
 **Southern Illinois University**
 <br>
@@ -35,7 +35,7 @@ Graduate ITEC Courses Completed
 
 <br>
 
-Undergraduate ITEC Courses Completed
+Undergraduate ITEC Course Highlights
 ---
 **Southern Illinois University**
 <br>
