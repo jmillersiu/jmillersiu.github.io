@@ -21,7 +21,8 @@ Research Topics - SIUC, Carbondale, Illinois
 <li>Cyber Security of Cyber Physical Systems by Jeff Miller, August, 2021</li>
 <li>Real-Time Scheduling for Cyber-Physical Systems by Jeff Miller, August, 2021</li>
 <li>Modeling and Testing in Cyber Physical Systems by Jeff Miller, August, 2021</li>
-<li>Analyzing Security in Cloud Services by Jeff Miller, Dec, 2020</li>
+<li>Analyzing Security in Cloud Services by Jeff Miller, Dec, 2020 - <a href="https://jmillersiu.github.io/assets/ASCAB_10_20.pdf" download>[PDF DOWNLOAD]
+</a></li>
 <li>Security in Hybrid Cloud Services by Jeff Miller, Dec, 2020 May 2018 - <a href="https://jmillersiu.github.io/assets/SHCS_5_18.pdf" download>[PDF DOWNLOAD]
 </a></li>
 <br>
