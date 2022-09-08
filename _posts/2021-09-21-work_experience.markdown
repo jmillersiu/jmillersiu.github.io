@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "Work Experience"
-date:   2021-09-21 13:11:36
+date:   2022-09-8 13:11:36
 categories: jekyll update
 ---
 <br>
 
 August 2021 - Current Position - Assistant Lecturer - School of Information Technology - SIU, Carbondale, Illinois  
 ---
-<li>On-Campus Lead Instructor - Systems Administration - FALL 2022 ITEC_235</li>
-<li>On-Campus Lead Instructor - Applied Statistics for the IT Profession - FALL 2022 ITEC_265</li>
-<li>Instructional Designer - On-Campus Lead Instructor - Database Design & Processing - FALL 2022 ITEC_334</li>
-<li>Instructional Designer - On-Campus Lead Instructor - Web Applications - FALL 2022 ITEC_236</li>
-<li>Instructional Designer - Lead Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
-<li>Instructional Designer - Lead Instructor - Database Design & Processing - FALL 2021 ITEC_334</li>
-<li>Instructional Designer - On-Campus Lead Instructor - Web Applications - FALL 2021 ITEC_236</li>
+<li>On-Campus Instructor - Systems Administration - FALL 2022 ITEC_235</li>
+<li>On-Campus Instructor - Applied Statistics for the IT Profession - FALL 2022 ITEC_265</li>
+<li>On-Campus Instructor - Database Design & Processing - FALL 2022 ITEC_334</li>
+<li>On-Campus Instructor - Web Applications - FALL 2022 ITEC_236</li>
+<li>Instructional Designer - On-Campus Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
+<li>Instructional Designer - On-Campus Instructor - Database Design & Processing - FALL 2021 ITEC_334</li>
+<li>Instructional Designer - On-Campus Instructor - Web Applications - FALL 2021 ITEC_236</li>
 <li>Assistant Lecturer/Guest Lecturer - Cyber Defense (Security Dawgs) - FALL 2021 ITEC_395</li>
 <br>
 
