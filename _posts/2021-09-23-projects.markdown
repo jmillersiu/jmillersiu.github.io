@@ -4,7 +4,7 @@ title:  "Projects"
 date:   2021-09-23 13:11:36
 categories: jekyll update
 ---
-Current Projects - SIUC, Carbondale, Illinois  
+Projects - SIUC, Carbondale, Illinois  
 ---
 <li>PCI Compliancy Topics by Jeff Miller</li>
 <li>Secure Web Servers by Jeff Miller</li>
