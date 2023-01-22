@@ -26,6 +26,7 @@ Industry Certifications
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
 <br>
+
 Graduate ITEC Course Highlights 
 ---
 **Southern Illinois University**
@@ -36,6 +37,7 @@ Graduate ITEC Course Highlights
 <li>Forensics - ITEC 506</li>
 <li>Cyberintelligence - ITEC 507</li>
 <br>
+
 Undergraduate ITEC Course Highlights
 ---
 **Southern Illinois University**
