@@ -26,7 +26,7 @@ Industry Certifications
 ---
 **CompTia**
 <br>
-<li> href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +< </a> 
+<li> <href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +< </a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
 
 Graduate ITEC Course Highlights 
