@@ -18,6 +18,7 @@ categories: jekyll update
 
 <li> Associate of Arts, John A. Logan College, Carterville, Illinois - May 1995
 </li>
+<br>
 
 Industry Certifications
 ---
