@@ -4,7 +4,7 @@ date: 2021-09-25 13:11:36
 title:  "Education"
 categories: jekyll update
 ---
-<li>MSEd, Workforce Education & Development, Southern Illinois University, Carbondale, Illinois - 2021-2023 
+<li>Master of Science, Information Systems Security, University of the Cumberlands, Williamsburg, Kentucky - 2021-2023 
 </li>
 
 <li>Graduate Certificate in Cybersecurity, (1-year-18 Hours) Southern Illinois University, Carbondale, Illinois - August 2021  
