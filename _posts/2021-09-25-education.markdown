@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-09-25 13:11:36
+date: 2023-01-22 13:11:36
 title:  "Education"
 categories: jekyll update
 ---
