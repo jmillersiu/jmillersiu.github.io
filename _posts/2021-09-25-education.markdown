@@ -20,11 +20,13 @@ categories: jekyll update
 </li>
 <br>
 Industry Certifications
+---
 **CompTia**
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
 
 Graduate ITEC Course Highlights 
+---
 **Southern Illinois University**
 <li>Intro to Security - ITEC 501</li>
 <li>Cloud Security - ITEC 502</li>
@@ -36,6 +38,7 @@ Graduate ITEC Course Highlights
 <br>
 
 Undergraduate ITEC Course Highlights
+---
 **Southern Illinois University**
 <li>Intro to Security - ITEC 216</li>
 <li>Networking Fundamentals - ITEC 224</li>
