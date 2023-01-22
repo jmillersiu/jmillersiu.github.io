@@ -22,6 +22,13 @@ categories: jekyll update
 
 <br>
 
+Industry Certifications
+---
+**CompTia**
+<br>
+<li>Security + <a https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile </a> 
+<a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
+
 Graduate ITEC Course Highlights 
 ---
 **Southern Illinois University**
