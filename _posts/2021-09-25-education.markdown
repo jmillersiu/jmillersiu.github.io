@@ -19,20 +19,15 @@ categories: jekyll update
 <li> Associate of Arts, John A. Logan College, Carterville, Illinois - May 1995
 </li>
 
-
-<br>
-
 Industry Certifications
 ---
 **CompTia**
-<br>
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
 
 Graduate ITEC Course Highlights 
 ---
 **Southern Illinois University**
-<br>
 <li>Intro to Security - ITEC 501</li>
 <li>Cloud Security - ITEC 502</li>
 <li>Cyber Physical Systems - ITEC 503</li>
@@ -45,7 +40,6 @@ Graduate ITEC Course Highlights
 Undergraduate ITEC Course Highlights
 ---
 **Southern Illinois University**
-<br>
 <li>Intro to Security - ITEC 216</li>
 <li>Networking Fundamentals - ITEC 224</li>
 <li>Cyber Physical Systems - ITEC 365</li>
