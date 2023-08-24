@@ -4,7 +4,7 @@ date: 2023-01-22 13:11:36
 title:  "Education"
 categories: jekyll update
 ---
-<li>Master of Science, Cybersecurity, Northern Kentucky University - 2023 
+<li>Master of Science, Cybersecurity, Northern Kentucky University, Highland Heights, Kentucky - December 2023 
 </li>
 
 <li>Graduate Certificate in Cybersecurity, (1-year-18 Hours) Southern Illinois University, Carbondale, Illinois - August 2021  
