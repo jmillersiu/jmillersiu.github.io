@@ -4,7 +4,7 @@ date: 2023-01-22 13:11:36
 title:  "Education"
 categories: jekyll update
 ---
-<li>Master of Science, Information Systems Security, University of the Cumberlands, Williamsburg, Kentucky - 2021-2023 
+<li>Master of Science, Cybersecurity, Northern Kentucky University - 2023 
 </li>
 
 <li>Graduate Certificate in Cybersecurity, (1-year-18 Hours) Southern Illinois University, Carbondale, Illinois - August 2021  
@@ -25,6 +25,21 @@ Industry Certifications
 **CompTia**
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
+<br>
+
+Masters NKU Course Highlights 
+---
+**Northern Kentucky University**
+<li>Cybersecurity Fundementals - MCY 601</li>
+<li>Network Security - MCY 602</li>
+<li>Cloud computing - MCY 611</li>
+<li>Cloud Security - MCY 612</li>
+<li>Data Privacy - MCY 620</li>
+<li>Security Architecture - MCY 630</li>
+<li>Incident Response - MCY 640</li>
+<li>Ethical Hacking - MCY 650</li>
+<li>Web security - MCY 670</li>
+<li>Computer Forensics - MCY 689</li>
 <br>
 
 Graduate ITEC Course Highlights 
