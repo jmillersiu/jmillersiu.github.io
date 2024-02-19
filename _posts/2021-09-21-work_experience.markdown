@@ -8,13 +8,34 @@ categories: jekyll update
 
 August 2021 - Current Position - Assistant Lecturer - School of Information Technology - SIU, Carbondale, Illinois  
 ---
+<li>On-Campus Instructor - Systems Administration - Spring 2024 ITEC_235</li>
+<li>On-Campus Instructor - Applied Statistics for the IT Profession - Spring 2024 ITEC_265</li>
+<li>On-Campus Instructor - Database Programming w/ SQL - Spring 2024 ITEC_370</li>
+<li>On-Campus Instructor - Web Applications - Spring 2024 ITEC_236</li>
+<li>On-Campus Instructor - Programming with SQL - FALL 2023 ITEC_370</li>
+<li>On-Campus Instructor - Systems Administration - FALL 2023 ITEC_235</li>
+<li>On-Campus Instructor - Applied Statistics for the IT Profession - FALL 2022 ITEC_265</li>
+<li>On-Campus Instructor - Database Design & Processing - FALL 2023 ITEC_334</li>
+<li>On-Campus Instructor - Web Applications - FALL 2023 ITEC_236</li>
+<li>On-Campus Instructor - Programming with SQL - Spring 2023 ITEC_370</li>
+<li>On-Campus Instructor - Systems Administration -Spring 2023 ITEC_235</li>
+<li>On-Campus Instructor - Applied Statistics for the IT Profession - Spring 2023 ITEC_265</li>
+<li>On-Campus Instructor - Web Applications - FALL 2022 ITEC_236</li>
+<li>On-Campus Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
+<li>On-Campus Instructor - Web Applications - FALL 2022 ITEC_236</li>
+<li>On-Campus Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
 <li>On-Campus Instructor - Systems Administration - FALL 2022 ITEC_235</li>
 <li>On-Campus Instructor - Applied Statistics for the IT Profession - FALL 2022 ITEC_265</li>
 <li>On-Campus Instructor - Database Design & Processing - FALL 2022 ITEC_334</li>
 <li>On-Campus Instructor - Web Applications - FALL 2022 ITEC_236</li>
-<li>Instructional Designer - On-Campus Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
-<li>Instructional Designer - On-Campus Instructor - Database Design & Processing - FALL 2021 ITEC_334</li>
-<li>Instructional Designer - On-Campus Instructor - Web Applications - FALL 2021 ITEC_236</li>
+<li>On-Campus Instructor - Web Applications - Spring 2022 ITEC_236</li>
+<li>On-Campus Instructor - Programming with SQL - Spring 2022 ITEC_370</li>
+<li>On-Campus Instructor - Systems Administration -Spring 2022 ITEC_235</li>
+<li>On-Campus Instructor - Database Design & Processing - Spring 2022 ITEC_334</li>
+<li>On-Campus Instructor - Programming with SQL - FALL 2021 ITEC_370</li>
+<li>Online Instructor - Programming with SQL - FALL 2021 ITEC_370_940</li>
+<li>On-Campus Instructor - Database Design & Processing - FALL 2021 ITEC_334</li>
+<li>On-Campus Instructor - Web Applications - FALL 2021 ITEC_236</li>
 <li>Assistant Lecturer/Guest Lecturer - Cyber Defense (Security Dawgs) - FALL 2021 ITEC_395</li>
 <br>
 
