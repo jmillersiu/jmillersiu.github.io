@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work Experience"
-date:   2022-09-8 13:11:36
+date:   2024-02-18 13:11:36
 categories: jekyll update
 ---
 <br>
@@ -46,7 +46,7 @@ August 2021 - Current Position - Assistant Lecturer - School of Information Tech
 <li>On-Campus Instructor - Database Design & Processing - FALL 2021 ITEC_334</li>
 <li>On-Campus Instructor - Web Applications - FALL 2021 ITEC_236</li>
 <br>
-
+---
 2013 - August, 2021 - Assistant Director - Information Technology - University Housing - SIU, Carbondale, Illinois                         
 ---
 <li>Assess future hardware, software, and personnel needs for the IT Department of University Housing</li>
