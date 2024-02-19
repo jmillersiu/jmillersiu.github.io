@@ -13,7 +13,7 @@ August 2021 - Current Position - Assistant Lecturer - School of Information Tech
 <li>On-Campus Instructor - Systems Administration - FALL 2024 ITEC_235</li>
 <li>On-Campus Instructor - Applied Statistics for the IT Profession - FALL 2024 ITEC_265</li>
 ---
-<li>Online Instructor - Data Privacy - Summer 2024 CTEC_381</li>
+<li>Online Instructor - Special Topics - Data Privacy - Summer 2024 CTEC_381</li>
 <li>Online Instructor - Special Topics - PCI Compliance - Summer 2024 ITEC_350</li>
 ---
 <li>On-Campus Instructor - Web Applications - Spring 2024 ITEC_236</li>
