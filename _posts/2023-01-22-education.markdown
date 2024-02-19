@@ -25,14 +25,10 @@ Industry Certifications
 **CompTia Security+ 601**<br>
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li><br>
----
-**ISC2 CC - Certified in Cybersecurity**<br>
----
-**EC-Council - CEH - Certified Ethical Hacker**<br>
----
-**Cisco - CCNA - Cisco Certified Network Associate**<br>
----
-**Cisco - Cyber Threat Management**<br>
+<li>ISC2 CC - Certified in Cybersecurity</li><br>
+<li>EC-Council - CEH - Certified Ethical Hacker</li><br>
+<li>Cisco - CCNA - Cisco Certified Network Associate</li><br>
+<li>Cisco - Cyber Threat Management</li><br>
 
 <br>
 
