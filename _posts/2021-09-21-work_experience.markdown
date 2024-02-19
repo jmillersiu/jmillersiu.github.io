@@ -8,6 +8,8 @@ categories: jekyll update
 
 August 2021 - Current Position - Assistant Lecturer - School of Information Technology - SIU, Carbondale, Illinois  
 ---
+<li>Online Instructor - Data Privacy - Summer 2024 CTEC_381</li>
+<li>Online Instructor - Special Topics - PCI Compliance - Summer 2024 ITEC_350</li>
 <li>On-Campus Instructor - Systems Administration - Spring 2024 ITEC_235</li>
 <li>On-Campus Instructor - Applied Statistics for the IT Profession - Spring 2024 ITEC_265</li>
 <li>On-Campus Instructor - Database Programming w/ SQL - Spring 2024 ITEC_370</li>
