@@ -26,13 +26,13 @@ Industry Certifications
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
 ---
-**ISC2 CC - Certified in Cybersecurity**
+**ISC2 CC - Certified in Cybersecurity** <br>
 ---
-**EC-Council - CEH - Certified Ethical Hacker**
+**EC-Council - CEH - Certified Ethical Hacker** <br>
 ---
-**Cisco - CCNA - Cisco Certified Network Associate**
+**Cisco - CCNA - Cisco Certified Network Associate** <br>
 ---
-**Cisco - Cyber Threat Management**
+**Cisco - Cyber Threat Management** <br>
 ---
 <br>
 
