@@ -25,6 +25,8 @@ Industry Certifications
 **CompTia**
 <li> <a href="https://www.credly.com/badges/575ce827-82b6-4e5c-b59e-4860ae926356/linked_in_profile">Security +</a> 
 <a href="https://jmillersiu.github.io/assets/security.pdf" download>[PDF DOWNLOAD]</a></li>
+**ISC2 CC - Certified in Cybersecurity**
+**EC-Council - CEH - Certified Ethical Hacker**
 <br>
 
 Masters NKU Course Highlights 
