@@ -8,7 +8,7 @@ categories: jekyll update
 
 Research Topics - SIUC, Carbondale, Illinois  
 ---
-<li>Differential Privacy in Modern Database Curriculum by Jeff Miller, April 2024 - <a href="https://jmillersiu.github.io/assets/Integrating_Differential_Privacy_in_Modern_Database_Curriculum.pdf" download>[PDF DOWNLOAD]</a></li>
+<li>Differential Privacy in Modern Database Curriculum by Jeff Miller, April, 2024 - <a href="https://jmillersiu.github.io/assets/Integrating_Differential_Privacy_in_Modern_Database_Curriculum.pdf" download>[PDF DOWNLOAD]</a></li>
 <li>PCI Compliancy Topics by Jeff Miller, September, 2021</li>
 <li>Secure Web Servers by Jeff Miller, September, 2021</li>
 <li>NGNX, APACHE2 and other Linux Web Servers by Jeff Miller, September, 2021</li>
